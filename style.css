@@ -9,7 +9,10 @@ body {
     color: #000;
 }
 
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
     font-family: 'Open Sans', 'Helvetica Light', 'Helvetica Neue', 'Arial Narrow', Helvetica, Arial, serif;
     font-weight: 300;
     font-weight: normal;
@@ -95,8 +98,7 @@ p label span.colon {
     margin-bottom: 25px;
 }
 
-.section .set {
-}
+.section .set {}
 
 .item {
     margin: 0 0 20px 0;
@@ -152,7 +154,8 @@ p label span.colon {
     font-weight: 300;
 }
 
-.basic-info label, .basic-info span {
+.basic-info label,
+.basic-info span {
     display: inline !important;
 }
 
@@ -164,7 +167,8 @@ p label span.colon {
     display: block;
 }
 
-.section h3 span.l, .section span.r {
+.section h3 span.l,
+.section span.r {
     width: 49%;
     float: left;
 }
