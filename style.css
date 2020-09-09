@@ -52,6 +52,12 @@ a {
 
 .clear {
     clear: both;
+    padding: 5px;
+}
+
+.sub-title {
+    padding: 5px;
+    font-weight: 800;
 }
 
 #main {
